@@ -1,0 +1,11 @@
+/__pycache__/
+/dist
+/build
+*.spec
+1.py
+Check DB Size.spec
+SummaryDBSize.py
+functions.py
+main.py
+xxx.py
+*.exe
